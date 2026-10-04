@@ -88,8 +88,8 @@ Mot de passe genere : xVieoRgK&C1xSQc%
 
 ### Génération et analyse d'un mot de passe
 
-![Génération et analyse](screenshots/generator-analysis.png)
+![Génération et analyse](Screenshots/Capture%20d'écran%202026-10-04%20134325.png)
 
 ### Analyse de sécurité
 
-![Analyse de sécurité](screenshots/security-analysis.png)
+![Analyse de sécurité](Screenshots/Capture%20d'écran%202026-10-04%20134346.png)
