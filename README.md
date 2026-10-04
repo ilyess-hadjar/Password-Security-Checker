@@ -84,6 +84,7 @@ Choisissez une option : 2
 Quelle longueur voulez-vous ? 16
 
 Mot de passe genere : xVieoRgK&C1xSQc%
+```
 ## 📸 Démonstration
 
 ### Génération et analyse d'un mot de passe
